@@ -1,7 +1,7 @@
 ###########################
-### ---> Recommend running code in Colab
-Colab link1 (traffic_sign_classification.ipynb) - (only for grey images): https://colab.research.google.com/drive/1Gped5FMZlq9_xBKfou3tdyBoKJVkQ86d?usp=sharing
-Colab link2 (readme.ipynb): https://colab.research.google.com/drive/1yTpdxqinvhrwhcgZbR2ram1gkl0gZZJg?usp=sharing
+# Recommend running code in Colab
+- Colab link1 (traffic_sign_classification.ipynb) - (only for grey images): https://colab.research.google.com/drive/1Gped5FMZlq9_xBKfou3tdyBoKJVkQ86d?usp=sharing
+- Colab link2 (readme.ipynb): https://colab.research.google.com/drive/1yTpdxqinvhrwhcgZbR2ram1gkl0gZZJg?usp=sharing
 
 Step 1: Download dataset with the link below 
 Step 2: Download traffic_sign_classification.py from GitHub (Stage5 folder)
@@ -59,4 +59,4 @@ All three dataset contains 43 different classes of images.
 ### ---> Dataset link
 https://eltnmsu-my.sharepoint.com/:f:/g/personal/zhuang_nmsu_edu/Egv6Dyvc2pJKpchqyLKOdKoBP-rhKt1DAvGIktxSlPoFcw?e=6khemn
 
-# hello
+
